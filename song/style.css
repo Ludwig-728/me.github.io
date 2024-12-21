@@ -5,9 +5,7 @@
   }
   
   h1 {
-    color: rgb(60, 33, 33);
-    border: 5px solid rgb(235, 235, 235);
-    border-radius: 12px;
+    color: rgb(50, 50, 50);
     width: 100%;
     height: 5dvh;
    font-weight: bold;
@@ -18,13 +16,81 @@
 }
 
 body {
-  border: 5px solid rgb(227, 227, 227);
+  border: 5px solid rgb(255, 250, 250);
   font-weight: 10px;
+  height: 100%;
   font-style: italic;
   font-size: medium;
   cursor: pointer; 
-  background-image:url("sunset1.png");
+  background-image:url(Untitled\ \(594\ x\ 420\ mm\).png);
   text-align: inherit;
   border-width: 10px;
 
+}
+.box1 {
+  font-size: medium;
+  font-weight: 10px;
+  font-variant: small-caps;
+  color: rgb(50, 50, 50);
+}
+.box2 {
+  font-size: medium;
+  font-weight: 10px;
+  font-variant: small-caps;
+  color: rgb(50, 50, 50);
+}
+.box3 {
+  font-size: medium;
+  font-weight: 10px;
+  font-variant: small-caps;
+  color: rgb(50, 50, 50);
+}
+.box4 {
+  font-size: medium;
+  font-weight: 10px;
+  font-variant: small-caps;
+  color: rgb(50, 50, 50);
+}
+.box5 {
+  font-size: medium;
+  font-weight: 10px;
+  font-variant: small-caps;
+  color: rgb(50, 50, 50);
+}
+.box6 {
+  font-size: medium;
+  font-weight: 10px;
+  font-variant: small-caps;
+  color: rgb(50, 50, 50);
+}
+.box7 {
+  font-size: medium;
+  font-weight: 10px;
+  font-variant: small-caps;
+  color: rgb(50, 50, 50);
+}
+.box8 {
+  font-size: medium;
+  font-weight: 10px;
+  font-variant: small-caps;
+  color: rgb(50, 50, 50);
+}
+.box9 {
+  font-size: medium;
+  font-weight: 10px;
+  font-variant: small-caps;
+  color: rgb(50, 50, 50);
+}
+.box10 {
+  font-size: medium;
+  font-weight: 10px;
+  font-variant: small-caps;
+  color: rgb(50, 50, 50);
+}
+.box11 {
+  font-size: medium;
+  font-weight: bold;
+  font-variant: small-caps;
+  color: rgb(50, 50, 50);
+  height: 10vh;
 }
